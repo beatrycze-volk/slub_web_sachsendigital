@@ -112,5 +112,5 @@ npm run compat-build
 - TYPO3 CMS Frontend (cms)
 - Extbase Framework (Extbase)
 - Fluid Templating Engine (fluid)
-- Kitodo.Presentatioin (dlf)
+- Kitodo.Presentation (dlf)
 - News system (news)
